@@ -1,0 +1,43 @@
+Report for Institution Code MSB, Resource msbobs_mamm
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis Lupus mappable:1 distance(location,geopoint(42.58544425738491,-107.99560546875))&lt;2314038" ; Times: 1
+	Query: "canis lupus continent:North America" ; Times: 1
+	Query: "Canis lupus arctos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 889 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia" ; Times: 1
+	Query: "Canis Lupus mappable:1 distance(location,geopoint(43.48481212891608,-100.1513671875))&lt;2291850" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+
+
+End of report.
