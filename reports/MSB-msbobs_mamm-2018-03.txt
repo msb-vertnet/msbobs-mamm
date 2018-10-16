@@ -1,0 +1,39 @@
+Report for Institution Code MSB, Resource msbobs_mamm
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 7
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lupus genus:Canis (captive OR zoo)" ; Times: 1
+	Query: "basisofrecord:HumanObservation" ; Times: 2
+	Query: "class:Mammalia institutioncode:MSB" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis (captive OR zoo) institutioncode:MSB" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis institutioncode:MSB" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1284 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
